@@ -1,0 +1,6 @@
+id,szPlotIdUniqueKey,fPrice,szRow,szPlot,szLot,szCentroidLatitude,szCentroidLongtitude,szCentroidNorthing,szCentroidEasting,szNECornerLatitude,szNECornerLongitude,szNWCornerLatitude,szNWCornerLongitude,szSECornerLatitude,szSECornerLongitude,szSWCornerLatitude,szSWCornerLongitude,boundaryPlot,cornerPlot,PriceWithTax
+1,Z166G45FHT,322,20,32,32,40.782865,73.03648826,43,54,65,34,54,65,76,123,98,9,Yes,No,$765
+2,T4454FFEDV,956,43,23,312,33.64712767,73.03648826,12.32,67.43,65,,,,,,,,Yes,No,$570
+3,H3345439EK,232,32,55,67,40.782865,73.03648826,1,,,,,,,,,,Yes,No,$190.30
+5,T42543FEDV,956,27,78,312,33.64712767,73.03648826,12.32,67.43,65,,,,,,,,Yes,No,$340
+6,H3341439EK,9000,37,90,67,40.782865,73.03648826,1,,,,,,,,,,Yes,No,$143.30
